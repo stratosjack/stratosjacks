@@ -1,2 +1,2 @@
 # stratosjacks
-This is my private repository, so back off!
+Boom, repository! :boom:
